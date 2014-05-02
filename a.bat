@@ -1,0 +1,1 @@
+minerd -a jackpot -o stratum+tcp://www.hashharder.com:9958 -u JfuqrfDTt5KVueFj65nrY6Nj4MNFttqsGK -p x -t 4
